@@ -1,29 +1,29 @@
 //Questions
 let questionBank= [
     {
-        question : '',
-        option : [''],
-        answer : ''
+        question : 'What is pushback?',
+        option : ['Another name for the drink cart', 'Moving a plane backwards from the gate', 'When a passenger is being rude', 'An emergency landing' ],
+        answer : 'Moving a plane backwards from the gate'
     },
     {
-        question : '',
-        option : [''],
-        answer : ''
+        question : 'What is a deadhead?',
+        option : ['A sleeping passenger', 'The fourth pilot', 'An employee flying as a passenger while on duty', 'A suspicious person onboard'],
+        answer : 'An employee flying as a passenger while on duty'
     },
     {
-        question : '',
-        option : [''],
-        answer : ''
+        question : 'What time is 1530?',
+        option : ['5:30 p.m.', '7:30 a.m.', '3:30 p.m.', '3:30 a.m.'],
+        answer : '3:30 p.m.'
     },
     {
-        question : '',
-        option : [''],
-        answer : ''
+        question : "You've arrived on time for your flight and are almost ready for takeoff. You're about to close the doors when someone in your section gets up to retrieve something from the overhead bin. What do you do?",
+        option : ["Ignore them — they'll sit down eventually",'Politely ask them to sit down, then close the doors whether they do or not', 'Hold the door until they sit down, even if it delays the plane', 'Inform them that the door cannot close until they sit down' ],
+        answer : 'Inform them that the door cannot close until they sit down'
     },
     {
-        question : '',
-        option : [''],
-        answer : ''
+        question : "Your first flight has just landed at ORD — what airport is that?",
+        option : ['Orlando International Airport',"Chicago O'Hare International Airport",'Bordeaux-Mérignac Airport','Oxford Airport'],
+        answer : "Chicago O'Hare International Airport"
     }
 ]
 
