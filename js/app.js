@@ -27,6 +27,7 @@ let questionBank= [
     }
 ]
 
+let startButton= document.getElementById('.start')
 let question= document.getElementById('question');
 let quizContainer= document.getElementById('quiz-container');
 let scorecard= document.getElementById('scorecard');
@@ -41,8 +42,14 @@ let i=0;
 let score= 0;
 
 
+function myFunction() {
+    document.getElementById('quiz-container').style.display = "block" ;
+};
+
+
 //function to display questions
 function displayQuestion(){
+    
     for(var a=0;a<span.length;a++){
         span[a].style.background='none';
     }
