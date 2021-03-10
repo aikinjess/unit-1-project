@@ -24,6 +24,56 @@ let questionBank= [
         question : "Your first flight has just landed at ORD — what airport is that?",
         option : ['Orlando International Airport',"Chicago O'Hare International Airport",'Bordeaux-Mérignac Airport','Oxford Airport'],
         answer : "Chicago O'Hare International Airport"
+    },
+    {
+        question : "If oxygen masks fall, which of these should a passenger do first?",
+        option : ['Put a mask on','Put a mask on any child in their party','Ask a flight attendant if a mask is needed','Inflate the mask'],
+        answer : 'Put a mask on'
+    },
+    {
+        question : "Where is MCO airport located?",
+        option : ['Mason City,IA','Miles City,MT','Columbus,MS','Orlando,FL'],
+        answer : "Orlando,FL"  
+    },
+    {
+        question : "What time is 0545?",
+        option : ['1:45 p.m.','5:45 p.m.','11:45 a.m.','5:45 a.m.'],
+        answer : '5:45 a.m.'
+    },
+    {
+        question : "Where is CVG airport located?",
+        option : ['Cincinnati, OH','Cleveland, OH','Charleston, SC', 'Columbus, OH'],
+        answer : "Cincinnati, OH"  
+    },
+    {
+        question : "Where is DTW airport located?",
+        option : ['Dallas/Fort Worth, TX','Daytona Beach, FL','Dothan, AL','Detroit, MI'],
+        answer : "Detroit, MI"  
+    },
+    {
+        question : "What is a wall or partition dividing the cabins in an aircraft?",
+        option : ['Bulkhead','Jumpseat','Tailwind','Headwind'],
+        answer : 'Bulkhead'
+    },
+    {
+        question : "What is the area on the aircraft where food and beverages are stored and prepared?",
+        option : ['Galley','Fuselage','Holding','Descent'],
+        answer : "Galley"  
+    },
+    {
+        question : "What is a listing of available pairings which trip holder flight attendants may access to pick-up, swap, or drop a trip?",
+        option : ['Credit Rig','Open Time', 'Purser', 'Open Seating'],
+        answer : "Open Time"  
+    },
+    {
+        question : "What time is 2400?",
+        option : ['12:00 a.m.','12:00 p.m.','8:00 p.m.','6:00 a.m.'],
+        answer : "12:00 a.m."  
+    },
+    {
+        question : "What time is 1000?",
+        option : ['1:00 p.m.','10:00 p.m.','10:00 a.m.','1:00 a.m.'],
+        answer : "10:00 a.m."  
     }
 ]
 
