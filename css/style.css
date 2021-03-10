@@ -9,7 +9,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: 100%;
+    background-position: left top;
     background-repeat: no-repeat;
      
 }
@@ -49,11 +49,13 @@ body{
 }
 .questions{
     margin: 3rem auto;
-    width: 40vw;
+    width: 65vw;
     padding: 2rem;
     background: rgba(0, 255, 221, 0.31);
     cursor: default;
     border-radius: 5rem;
+    font-family: Copperplate, 'Times New Roman', Times, serif;
+    
 }
 
 #question{
@@ -81,6 +83,10 @@ span{
     padding: 0.1rem 0.7rem;
     border-radius: 1rem;
 }
+h4, h5 {
+    font-family: Copperplate, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
 #answer{
     margin-top: 2.5rem;
 }
@@ -99,6 +105,7 @@ button{
     border-radius: 1.5rem;
     color: rgb(255, 255, 255);
     background: rgba(186, 18, 63, 0.783);
+    font-family: Copperplate, 'Times New Roman', Times, serif;
     
 }
 button:active{
@@ -117,12 +124,14 @@ button:active{
 }
 #score-title{
     margin: 1rem 0;
+    font-family: Copperplate, 'Times New Roman', Times, serif;
 }
 #score-btn,#check-answer{
     margin-top: 1rem;
 }
 #score{
     font-size: 2.5rem;
+    font-family: Copperplate, 'Times New Roman', Times, serif;
 }
 #answerBank li{
     text-align: left;
@@ -131,4 +140,14 @@ button:active{
 }
 #answers{
     margin-top: 1rem;
+}
+
+#smallButton {
+    width: 90px;
+    height: 20px;
+    color: blue;
+
+}
+.github-button {
+   width: 100px;
 }
