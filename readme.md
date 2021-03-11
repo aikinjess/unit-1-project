@@ -8,7 +8,7 @@ This app is a deliverable for an assignment for my General Assembly curriculum. 
 
 ## Getting Started
 
-### [Take the quiz here!] (http://jessicaaikin.surge.sh/)
+### [Take the quiz here!](http://jessicaaikin.surge.sh/)
 
 
 ## Pseudocode
