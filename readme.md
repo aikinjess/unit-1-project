@@ -25,12 +25,12 @@ This app is a deliverable for an assignment for my General Assembly curriculum. 
 
 ## Technologies:
 
-HTML5
-CSS
-JavaScript ES6
-VSCode version 1.53.2
-Google Chrome version 88.0.4324.192 
-macOS Catalina version 10.15.7
+* HTML5
+* CSS
+* JavaScript ES6
+* VSCode version 1.53.2
+* Google Chrome version 88.0.4324.192 
+* macOS Catalina version 10.15.7
 
 ## Attribution
 Image by Elena Pichugina at
