@@ -36,7 +36,7 @@ This app is a deliverable for an assignment for my General Assembly curriculum. 
 ## Future Plans
 
 * Add onclick sound effects
-* Add if/else startments for quiz results to show if the user passed or failed
+* Add if/else statements for quiz results to show if the user passed or failed
 
 
 ## Attribution
