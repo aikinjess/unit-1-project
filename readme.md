@@ -12,7 +12,7 @@ This app is a deliverable for an assignment for my General Assembly curriculum. 
 
 ## Screenshots
 
-![Screenshot 1](https://i.imgur.com/UuImPyW.png)git 
+![Screenshot 1](https://i.imgur.com/UuImPyW.png)
 ![Screenshot 2](https://i.imgur.com/B0OTkKy.png)
 
 ## Pseudocode
