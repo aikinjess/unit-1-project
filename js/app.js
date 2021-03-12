@@ -92,7 +92,7 @@ let i=0;
 let score= 0;
 
 
-
+//function to display quiz container after start button is clicked and hide start button
 function myFunction() {
     document.getElementById('quiz-container').style.display = "block" ;
     document.getElementById('start').style.display = "none";
